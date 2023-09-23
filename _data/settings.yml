@@ -23,11 +23,11 @@ menu:
     submenu:
       - name: GitHub
         icon: github
-        link: http://github.com/alainpham
+        link: http://github.com/chenyenting1998
       - name: LinkedIn
         icon: linkedin-square
-        link: http://www.linkedin.com/in/alainpham
+        link: https://www.linkedin.com/in/yen-ting-chen-492880134/
       - name: Twitter
         icon: twitter
-        link: https://twitter.com/koint
+        link: https://twitter.com/yntngchn
     
